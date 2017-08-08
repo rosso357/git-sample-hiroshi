@@ -2,7 +2,7 @@ package chat.git_sample_rosso357;
 
 /**
  * Hello world!
- *
+ *@author igari
  */
 public class App 
 {
